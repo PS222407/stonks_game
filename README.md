@@ -1,2 +1,2 @@
-# stonks_game
+# StonksGame
 game dev examen "stonks game"
